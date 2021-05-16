@@ -4,8 +4,6 @@ import { Box, Grid } from '@material-ui/core';
 import Skeleton from '@material-ui/lab/Skeleton';
 
 
-
-
 const ProductSkeleton = ({length}) => {
     return (
         <Box>
